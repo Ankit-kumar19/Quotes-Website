@@ -1,2 +1,2 @@
-# Quotes-Website
-This a React-Firebase Quote Website where people can ad their quotes , views etc. .You can also arrange the quotes in ascending and descending order as you like 
+# Quote-Website
+This is a React-Firebase Website , where you can add your on quotes ,  views or anything you want . You can also sort the quotes in ascending and descending order .
